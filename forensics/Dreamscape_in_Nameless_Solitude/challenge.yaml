@@ -1,0 +1,9 @@
+title: MSB not LSB
+author: Cooliocorp, Sean 2 , Haowei
+description: you (cooliocorp) have been working for the stellaron hunters for the past few months. Today, you managed to find a caputre of the Astral Express's database records, with it containing where the Astral Express is going to head to next. Can u DeNoiSe it so that SAM can meet them there?
+flag: ACSI{penacony_land_of_nightmares}
+tags:
+  - forensics
+
+dist:
+  - ./dist/houkaistarrail.zip

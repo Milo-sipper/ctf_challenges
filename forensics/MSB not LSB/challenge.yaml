@@ -1,0 +1,10 @@
+title: MSB not LSB
+author: Ryan
+description: Is it corrupted beyond repair????
+flag: ACSI{most_sIgNificant_bit_is_not_the_same_as_Least_sIgnificant_bit}
+
+tags:
+  - forensics
+
+dist:
+  - ./dist/MSB.zip
