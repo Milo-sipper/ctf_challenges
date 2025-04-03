@@ -1,2 +1,2 @@
-# ctf_challenges
-ctf challenges that I have made for CCT-internal-ctf-2024
+# ctf challenges
+ctf challenges that I have made for cct-internal-ctf-2024
