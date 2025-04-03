@@ -1,0 +1,10 @@
+title: png-wher
+author: Ryan
+description: Where did my png go? It's almost as if the dimensions-space-whatever time continuum was broken when I ate it this morning. However, I did hear something called a CRCket was the key to getting my lost png back.
+flag: ACSI{pNg_fiXing_is_PEAK_and_I_am_definitely_n0t_goinG_craZy}
+
+tags:
+  - forensics
+
+dist:
+  - ./dist/png.zip
